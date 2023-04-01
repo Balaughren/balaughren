@@ -1,0 +1,22 @@
+@charset "utf-8";
+/* CSS Document */
+@media screen{
+.intro_paragraph {
+    margin-left: 111px;
+    margin-top: 20px;
+    font-size: x-large;
+    text-align: center;
+}
+.photo {
+    padding-top: 0px;
+    padding-left: 0px;
+    padding-bottom: 0px;
+}
+.about_me {
+    text-align: center;
+}
+}
+.form {
+    margin-left: 142px;
+    padding-bottom: 0px;
+}
