@@ -1,0 +1,9 @@
+@charset "utf-8";
+.paragraph {
+    text-align: center;
+    font-size: large;
+}
+.me {
+    clear: left;
+    float: left;
+}
